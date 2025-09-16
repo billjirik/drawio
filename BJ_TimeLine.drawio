@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="3reUuzehzdAXoM1RU8qo">
-    <mxGraphModel>
+    <mxGraphModel dx="1188" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="170" y="155" width="1090" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-2" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-2" value="Hired as Data&amp;nbsp;&lt;div&gt;Analytics Intern:&lt;div&gt;01/16/2024&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-4" value="First Billable Time Entry&lt;div&gt;2/28/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="75" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-6" value="Power BI Certification:&lt;div&gt;2/11/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-7" value="Healthcare Power BI Training&lt;div&gt;3/24/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="215" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-8" value="WesTech Ramp Up&lt;div&gt;5/19/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-9" value="Fabric Analytics Engineer Certification:&lt;div&gt;07/02/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-10" value="RL Hudson&lt;div&gt;9/8/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="205" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-11" value="Biomerics&lt;div&gt;12/29/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="72.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-12" value="HC Presentation in Vegas&lt;div&gt;1/6/2025&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="205" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-13" value="&lt;div&gt;&lt;div&gt;Internal Healthcare Initiative&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3/7/2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="87.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-15" value="Full Time Offer&lt;div&gt;4/16/2024&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="75" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-16" value="&lt;div&gt;&lt;div&gt;Promotion to Sr. Associate&lt;/div&gt;&lt;/div&gt;&lt;div&gt;7/30/2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="195" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-17" value="Fabric Data Engineer Certification&lt;div&gt;8/4/2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-18" value="Enclave A&amp;amp;D&lt;div&gt;8/11/2025&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="205" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.061;entryY=1.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-6" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.108;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-4" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-7" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.22;entryY=-0.217;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-15" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.271;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-8" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.339;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-9" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.406;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-10" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-11" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-12" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-13" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.661;entryY=1.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-16" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.717;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-17" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTFzx5VWR32bMLp9Wfhk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.779;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTFzx5VWR32bMLp9Wfhk-18" target="FTFzx5VWR32bMLp9Wfhk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
